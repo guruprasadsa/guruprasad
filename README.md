@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guruprasadsa" target="_blank">
+  <a href="https://www.linkedin.com/in/guruprasadsa8" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
 </div>
@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jeevannnn.Jeevannnn&left_color=chocolate&right_color=cadetblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=guruprasadsa.guruprasad&left_color=chocolate&right_color=cadetblue"  />
 </div>
 
 ###

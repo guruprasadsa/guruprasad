@@ -4,9 +4,9 @@
 ---
 
 ### 🧠 About Me
-- 🎯 I’m passionate about building intelligent systems that solve real-world problems.  
-- 🔍 Currently exploring **Deep Learning**, **Natural Language Processing**, and **Data Analysis**.  
-- 🛠️ Learning how to deploy scalable **Machine Learning** models in production.  
+- 🎯 I’m passionate about building intelligent systems that solve real-world problems.
+- 🔍 Currently exploring **Deep Learning**, **Natural Language Processing**, and **Data Analysis**.
+- 🛠️ Learning how to deploy scalable **Machine Learning** models in production.
 - 🌱 Constantly learning and pushing the boundaries of AI innovation.
 
 ---
@@ -37,15 +37,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guruprasadsa&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guruprasadsa&theme=dracula" height="150" alt="GitHub Streak" />
+  
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🗓️ GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guruprasadsa&theme=dracula&no-bg=true&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guruprasadsa&theme=dracula&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
 
 ---
@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guruprasadsa8" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -63,5 +63,5 @@
 ### 👁️ Visitor Count
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=guruprasadsa.guruprasad&left_color=chocolate&right_color=cadetblue" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=guruprasadsa.guruprasad&left_color=chocolate&right_color=cadetblue" alt="Visitor Count" />
 </div>
